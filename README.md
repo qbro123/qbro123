@@ -9,17 +9,17 @@
 
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Code-Koltin-informational?style=flat&logo=php&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Code-Koltin-informational?style=flat&logo=kotlin&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=python&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=csharp&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=cplusplus&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=nodejs&logoColor=white&color=blueviolet)
 
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Git-Git-informational?style=flat&logo=git&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/GitHub-GitHub-informational?style=flat&logo=github&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/IDE-AndroidStudio-informational?style=flat&logo=xcode&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/IDE-AndroidStudio-informational?style=flat&logo=androidstudio&logoColor=white&color=blueviolet)
 
 ## ![](https://mario.wiki.gallery/images/0/00/DK64_Blue_Banana.gif) GitHub Stats 
 
