@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/Code-Koltin-informational?style=flat&logo=kotlin&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=react&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=react&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=javascript&logoColor=white&color=blueviolet)
 
